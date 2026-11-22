@@ -1,12 +1,11 @@
-# PurplePill
+# Nicolas Boudier
 ### Hi there 👋
 
 From France, living in Paris 🥖, Mobile developper at Valwin, I do content on Development. I really enjoy learning languages and frameworks like Flutter and Nodejs.
 
-- 🔭 I’m currently working on Flutter & Fastlane
-- 🌱 I’m currently growing up with Kotlin & Pyhton
-- ⏲️ Recently I have improved my skills on [Fastlane](https://fastlane.tools/ "Fastlane")
-- 📫 How to reach me : [Instagram](https://www.instagram.com/purplepill_pro/ "@purplepill_pro") or <a href="mailto:purplepills@outlook.fr">email</a>
+- 🔭 I’m currently working on Flutter & React
+- 🌱 I’m currently growing up with React & Typescript
+- ⏲️ Recently I have improved my skills on [React](https://fr.react.dev/ "React")
 
 ## Languages and Tools:
 
